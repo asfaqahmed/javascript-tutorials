@@ -21,13 +21,13 @@ function binarySearchFirstOccurrence(arr, target) {
 }
 
 // Example usage
-const sortedArray1 = [2, 4, 4, 4, 6, 8, 10];
-const target1 = 4;
+// const sortedArray1 = [2, 4, 4, 4, 6, 8, 10];
+// const target1 = 4;
 
-const result1 = binarySearchFirstOccurrence(sortedArray1, target1);
+// const result1 = binarySearchFirstOccurrence(sortedArray1, target1);
 
-if (result1 !== -1) {
-    console.log(`First occurrence of target found at index ${result1}`);
-} else {
-    console.log('Target not found in the array');
-}
+// if (result1 !== -1) {
+//     console.log(`First occurrence of target found at index ${result1}`);
+// } else {
+//     console.log('Target not found in the array');
+// }
